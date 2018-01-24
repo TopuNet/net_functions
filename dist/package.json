@@ -1,0 +1,22 @@
+{
+  "name": "topunet-net-functions",
+  "version": "1.1.1",
+  "description": "Topu.net JS类库",
+  "main": "Readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopuNet/net_functions.git"
+  },
+  "keywords": [
+    "topu.net"
+  ],
+  "author": "Topu.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopuNet/net_functions/issues"
+  },
+  "homepage": "https://github.com/TopuNet/net_functions#readme"
+}
